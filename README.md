@@ -30,7 +30,7 @@ The structure of each data sample:
     <li>Other people, etc</li>
     <li>Major events</li>
     <li>Summary</li>
-    <ul>
+    </ul>
 </ul>
 
 ## Download  
