@@ -19,20 +19,18 @@ The structure of each data sample:
 
 <ul>
     <li>CSS Vol.xx Ch.xxx</li>
-        <ul>
-            <li>Images:</li>
-        </ul>
-        <li>Manga pictures (Please download it yourself)</li>
-        <li>Character portraits, etc</li>
-        <ul>
-            <li>Txts:</li>
-        </ul>
-        <li>Characters introduction</li>
-        <li>Other people, etc</li>
-        <li>Major events</li>
-        <li>Summary</li>
-        <ul>
+    <li>Images:</li>
+    <ul>
+    <li>Manga pictures (Please download it yourself)</li>
+    <li>Character portraits, etc</li>
     </ul>
+    <li>Txts:</li>
+    <ul>
+    <li>Characters introduction</li>
+    <li>Other people, etc</li>
+    <li>Major events</li>
+    <li>Summary</li>
+    <ul>
 </ul>
 
 ## Download  
