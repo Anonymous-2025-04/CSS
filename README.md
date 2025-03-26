@@ -33,9 +33,9 @@ The structure of each data sample:
     </ul>
 </ul>
 
-## Download  
+## Download the original file  
 
-[Baidu Netdisk Download](), [Google Drive]()
+[Baidu Netdisk Download](https://pan.baidu.com/s/1uduGCJ4Hx0bFJwbMeyFahA?pwd=mm7z), [Google Drive](https://drive.google.com/file/d/1qPWz8KOEgRZsJ-6kaoOU4oNr2e9212rE/view?usp=sharing)
 
 ## One more thing
 
